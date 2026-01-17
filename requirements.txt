@@ -1,0 +1,6 @@
+flask
+gunicorn
+azure-functions
+azure-functions-durable
+azure-storage-blob
+locust
